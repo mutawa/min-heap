@@ -6,4 +6,4 @@ The code is adapted from Java.
 
 # source video
 
-(Data Structures: Heaps)[https://www.youtube.com/watch?v=t0Cq6tVNRBA]
+[Data Structures: Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
